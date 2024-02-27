@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163691408612",
+    "project_id": "trembling-talk",
+    "storage_bucket": "trembling-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163691408612:android:514159e48e2ee57a9a50f1",
+        "android_client_info": {
+          "package_name": "com.example.trembling_talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFoTdCEhixy_FHB4CGdzdEFsO-nxDQLDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
